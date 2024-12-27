@@ -1,53 +1,65 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Med Mdhaffar, a passionate developer and tech enthusiast always eager to explore, learn, and create.
+Welcome to **DuplicateX** — your ultimate solution for cleaning up duplicate files on your system!
+
+---
+
+### 🚀 About DuplicateX
+
+DuplicateX is a powerful, efficient, and user-friendly tool designed to help you manage your files by identifying and deleting duplicates. Free up storage space, streamline your workflow, and keep your system clutter-free with DuplicateX!
 
 ---
 
 ### 🔭 I’m currently working on...
-- Building **DuplicateX**, a powerful tool to remove duplicate files and declutter systems.
-- Exploring advanced features in **GTK 4** for creating modern, dynamic UIs.
+Improving DuplicateX to include:
+- Enhanced performance for large-scale file systems.
+- More customizable options to filter duplicates.
+- Integration with cloud storage platforms like Google Drive and OneDrive.
 
 ---
 
 ### 🌱 I’m currently learning...
-- Advanced algorithms and data structures for better optimization.
-- Cross-platform development techniques using modern frameworks.
-- Best practices in GitHub Actions for continuous integration.
+- Advanced file-handling algorithms for better accuracy.
+- Cross-platform optimization for Linux, macOS, and Windows.
+- User interface design to make DuplicateX more intuitive.
 
 ---
 
 ### 👯 I’m looking to collaborate on...
-- Open-source projects that solve real-world problems.
-- File management or productivity tools.
-- Innovative solutions in mental health technology.
+- Open-source contributions to improve DuplicateX.
+- Adding new features such as batch deletion and advanced filtering.
+- Testing and feedback to ensure DuplicateX works seamlessly across devices.
 
 ---
 
 ### 🤔 I’m looking for help with...
-- Building scalable applications using modern frameworks.
-- Implementing advanced testing workflows with GitHub Actions.
-- Expanding my knowledge in cloud technologies.
+- Implementing real-time duplicate detection.
+- Translating DuplicateX into multiple languages to reach a global audience.
+- Building a robust system for backing up files before deletion.
 
 ---
 
 ### 💬 Ask me about...
-- How to work with **GTK 4** for UI development.
-- Setting up Git repositories and workflows.
-- My journey in building **DuplicateX** from scratch.
+- How DuplicateX identifies and handles duplicate files.
+- Best practices for organizing and decluttering your files.
+- The challenges of building cross-platform file management tools.
 
 ---
 
 ### 📫 How to reach me:
+Feel free to connect with me via:
 - **Email:** mohamed.medhaffar12345@gmail.com
-- **LinkedIn:**(https://www.linkedin.com/in/mohamed-mdhafar-08707b280/)
-- **GitHub Issues:** Drop a comment or question in any repository!
+- **LinkedIn:** https://www.linkedin.com/in/mohamed-mdhafar-08707b280/
+- **GitHub Issues:** Drop your suggestions or questions in the [Issues](https://github.com/MedMdhaffar/duplicateX/issues) section of this repository.
 
 ---
 
 ### ⚡ Fun fact:
-When I’m not coding, I’m probably dreaming about motorcycles, especially the **Kawasaki H2R** 🏍️. Speed and efficiency inspire my work!
+Did you know? Duplicate files can take up to 30% of your system storage! With DuplicateX, you can recover that space in just a few clicks.
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊
+### 🛠️ Installation and Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/MedMdhaffar/duplicateX.git
